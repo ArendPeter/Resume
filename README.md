@@ -20,17 +20,27 @@ __Programming Languages__: Java, C, C++, C#, Python, Matlab, Javascript, HTML, C
 __Language__: Lived in the Netherlands for 5 years and attained fluency in Dutch
 
 __Teaching__:
+
  - Taught Java, GML, and Unity (C#) programming via approximately 200 YouTube tutorials to an audience of over 6000 subscribers on Arend Peter Teaches and SynforgeGames  
- - Lead weekly Game Maker Classes and a 5 day Java course for middle and high school students, 
+
+ - Lead weekly Game Maker Classes and a 5 day Java course for middle and high school students
+
  - Provided 100+ hours of one on one tutoring in Math and Computer Science
 
 __Tutoring Subject Experience__:
+
  - Pre-Calculus
+
  - Calculus 1
+
  - Calculus 2
+
  - Statistics
+
  - College Algebra
+
  - Introduction to Java
+
  - Physics 1
 
 
@@ -48,7 +58,7 @@ __Lancope__, Alpharetta, Georgia, Software Engineering Intern • *May 2015 – 
 
 __University of North Georgia__, Dahlonega, Georgia • *September 2012 – December 2013*
 
- - *Worked part time as math tutoring for the Math department. Subjects ranged from College Algebra to Calculus 2 *
+ - *Worked part time as a tutor for the Math department. Subjects ranged from College Algebra to Calculus 2*
 
 ### __ACTIVITIES & AWARDS__
  - Faculty Honors and Dean’s List at Georgia Tech Spring 2015, Fall 2014  
