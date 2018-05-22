@@ -3,7 +3,7 @@
 #### 105 Warren Avenue • Seattle, Washington 98109 • (678) 925 -6718 • US Citizen
 
 ### __OBJECTIVE__
-Intending to pursue a Masters in Computer Science
+Seeking more tutoring tutoring experience
 
 ### __EDUCATION__
 __Georgia Institute of Technology__, Atlanta, Georgia • *August 2014  - December 2016*
@@ -17,47 +17,34 @@ Bachelor of Science in Mathematics, Math Major, Computer Science Minor • *GPA:
 ### __SKILLS__
 __Programming Languages__: Java, C, C++, C#, Python, Matlab, Javascript, HTML, CSS, PHP, MySQL, Game Maker Language (GML)
 
-__Programming Experience__
-
- - Competed in 8 collegiate programming competitions via the UNG and Georgia Tech Programming Teams
-
- - Created several applications using Java, including a Rubik’s Cube App, a Level Editor and an Android Game
-
- - Created a website using wordpress and several web languages  
-
- - Utilized Matlab for digital signal processing applications as well as image processing research
-
- - Developed many school projects and completed several programming challenges using Java, Python, C and C++
-
- - Aided in development and release of multiple video games: Binary Dash (iOS/Android, developed with GML) and Super Perspective (developed with C# in Unity Engine)
-
- - Used Git many personal projects as well as during my internships and at Amazon
-
 __Language__: Lived in the Netherlands for 5 years and attained fluency in Dutch
 
 __Teaching__:
  - Taught Java, GML, and Unity (C#) programming via approximately 200 YouTube tutorials to an audience of over 6000 subscribers on Arend Peter Teaches and SynforgeGames  
-Lead weekly Game Maker Classes and a 5 day Java course for middle and high school students, as well as 100+ hours of one on one tutoring in Math and Computer Science
+ - Lead weekly Game Maker Classes and a 5 day Java course for middle and high school students, 
+ - Provided 100+ hours of one on one tutoring in Math and Computer Science
+
+__Tutoring Subject Experience__:
+ - Pre-Calculus
+ - Calculus 1
+ - Calculus 2
+ - Statistics
+ - College Algebra
+ - Introduction to Java
+ - Physics 1
+
 
 ### __RELEVANT COURSEWORK__
-Signals and Systems, Web Programming, Combinatorics, Programming for Hardware/Software Systems, Graphical User Interfaces, Linear Algebra, Advanced Computer Architecture
+Signals and Systems, Web Programming, Combinatorics, Programming for Hardware/Software Systems, Graphical User Interfaces, Linear Algebra, Advanced Computer Architecture, Statistics
 
 ### __WORK EXPERIENCE__
 __Amazon__, Seattle, Washington, Software Engineer • June 2017 – Present
 
  - *Create tooling to reduce operational load for Amazon Linux releases using Python*
 
-__Amazon__, Seattle, Washington, Software Engineering Intern • *May 2016 – August 2016*
-
- - *Created testing software using Python and C for EC2 instances under Amazon Web Services*
-
 __Lancope__, Alpharetta, Georgia, Software Engineering Intern • *May 2015 – August 2015*
 
  - *Used Java and learned from senior software engineers to acquire Test Driven Development and Software Design experience*
-
-__Mamouth Comix__, Athens, Greece, Programmer • *June 2013 – October 2013*
-
- - *Worked remotely to create 3 fighting games for android, using Game Maker Studio*
 
 __University of North Georgia__, Dahlonega, Georgia • *September 2012 – December 2013*
 
