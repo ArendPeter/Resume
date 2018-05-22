@@ -36,8 +36,26 @@ __Programming Experience__
 __Language__: Lived in the Netherlands for 5 years and attained fluency in Dutch
 
 __Teaching__:
+
  - Taught Java, GML, and Unity (C#) programming via approximately 200 YouTube tutorials to an audience of over 6000 subscribers on Arend Peter Teaches and SynforgeGames  
-Lead weekly Game Maker Classes and a 5 day Java course for middle and high school students, as well as 100+ hours of one on one tutoring in Math and Computer Science
+
+ - Lead weekly Game Maker Classes and a 5 day Java course for middle and high school students, as well as 100+ hours of one on one tutoring in Math and Computer Science
+
+__Tutoring Subject Experience__:
+
+ - Pre-Calculus
+
+ - Calculus 1
+
+ - Calculus 2
+
+ - Statistics
+
+ - College Algebra
+
+ - Introduction to Java
+
+ - Physics 1
 
 ### __RELEVANT COURSEWORK__
 Signals and Systems, Web Programming, Combinatorics, Programming for Hardware/Software Systems, Graphical User Interfaces, Linear Algebra, Advanced Computer Architecture
